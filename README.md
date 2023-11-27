@@ -1,6 +1,7 @@
 # SecondLoop - Medicine Donation Platform
 
-![Logo](https://github.com/Timtim477/SecondLoop/assets/88290919/65238fc3-9699-430a-b6bb-e5e326c40d9f)
+![Logo](<img width="889" alt="image" src="https://github.com/Timtim477/SecondLoop/assets/88290919/aaab9715-6c25-4a20-9d12-098a1d293c47">
+)
 
 
 SecondLoop is a web-based platform designed to connect users willing to donate unused medicines with NGOs in need. The platform streamlines the process of donating and borrowing medicines, contributing to efficient resource utilization and healthcare support.
